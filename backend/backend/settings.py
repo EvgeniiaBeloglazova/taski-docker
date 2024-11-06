@@ -1,3 +1,5 @@
+"""This class is responsible for managing the API."""
+
 import os
 from pathlib import Path
 
